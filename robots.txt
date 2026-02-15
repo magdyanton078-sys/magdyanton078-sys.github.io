@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap:https://magdyanton078-sys.github.io/Seo-test-site/sitemap.xml
+Sitemap:https://magdyanton078-sys.github.io/sitemap.xml
